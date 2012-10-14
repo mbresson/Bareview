@@ -43,6 +43,15 @@ a img {
 	color: rgb(246, 82, 23);
 }
 
+.out_of_date_caption a {
+	color: rgb(246, 119, 23);
+}
+
+.out_of_date_caption a:hover {
+	color: white;
+	background-color: rgb(246, 119, 23);
+}
+
 /*			anti-spam trick			*/
 
 .email_body:before {
