@@ -1,0 +1,317 @@
+
+/*		SYNTAX HIGHLIGHTING
+****************************************/
+
+/* thanks GeSHi! */
+
+/*			bash			*/
+
+.bash  {
+	font-family: monospace;
+	text-align: left;
+	color: #006;
+	border: 1px solid #d0d0d0;
+	background-color: #f0f0f0;
+}
+
+.bash a:link {
+	color: #000060;
+}
+
+.bash a:hover {
+	background-color: #f0f000;
+}
+
+.bash .imp {
+	font-weight: bold;
+	color: red;
+}
+
+.bash .kw1 {
+	color: #000000;
+	font-weight: bold;
+}
+
+.bash .kw2 {
+	color: #c20cb9;
+	font-weight: bold;
+}
+
+.bash .kw3 {
+	color: #7a0874;
+	font-weight: bold;
+}
+
+.bash .co0 {
+	color: #666666;
+	font-style: italic;
+}
+
+.bash .co1 {
+	color: #800000;
+}
+
+.bash .co2 {
+	color: #cc0000;
+	font-style: italic;
+}
+
+.bash .co3 {
+	color: #000000;
+	font-weight: bold;
+}
+
+.bash .es1 {
+	color: #000099;
+	font-weight: bold;
+}
+
+.bash .es2 {
+	color: #007800;
+}
+
+.bash .es3 {
+	color: #007800;
+}
+
+.bash .es4 {
+	color: #007800;
+}
+
+.bash .es5 {
+	color: #780078;
+}
+
+.bash .es_h {
+	color: #000099;
+	font-weight: bold;
+}
+
+.bash .br0 {
+	color: #7a0874;
+	font-weight: bold;
+}
+
+.bash .sy0 {
+	color: #000000;
+	font-weight: bold;
+}
+
+.bash .st0 {
+	color: #ff0000;
+}
+
+.bash .st_h {
+	color: #ff0000;
+}
+
+.bash .nu0 {
+	color: #000000;
+}
+
+.bash .re0 {
+	color: #007800;
+}
+
+.bash .re1 {
+	color: #007800;
+}
+
+.bash .re2 {
+	color: #007800;
+}
+
+.bash .re4 {
+	color: #007800;
+}
+
+.bash .re5 {
+	color: #660033;
+}
+
+.bash span.xtra {
+	display: block;
+}
+
+/*			CSS			*/
+
+.css {
+	font-family: monospace;
+	text-align: left;
+	color: #006;
+	border: 1px solid #d0d0d0;
+	background-color: #f0f0f0;
+}
+
+.css a:link {
+	color: #000060;
+}
+
+.css a:hover {
+	background-color: #f0f000;
+}
+
+.css .imp {
+	font-weight: bold;
+	color: red;
+}
+
+.css li, .css .li1 {
+	font-weight: normal;
+	vertical-align: top;
+	font: normal normal 130% 'Courier New', Courier, monospace;
+	color: #003030;
+}
+
+.css .ln {
+	width: 1px;
+	text-align: right;
+	margin: 0; padding: 0 2px;
+	vertical-align: top;
+}
+
+.css .li2 {
+	font-weight: bold;
+	vertical-align: top;
+	font-weight: bold;
+	color: #006060;
+}
+
+.css .kw1 {
+	color: #000000;
+	font-weight: bold;
+}
+
+.css .kw2 {
+	color: #993333;
+}
+
+.css .co1 {
+	color: #a1a100;
+}
+
+.css .co2 {
+	color: #ff0000;
+	font-style: italic;
+}
+
+.css .coMULTI {
+	color: #808080;
+	font-style: italic;
+}
+
+.css .es0 {
+	color: #000099;
+	font-weight: bold;
+}
+
+.css .br0 {
+	color: #00AA00;
+}
+
+.css .sy0 {
+	color: #00AA00;
+}
+
+.css .st0 {
+	color: #ff0000;
+}
+
+.css .nu0 {
+	color: #cc66cc;
+}
+
+.css .re0 {
+	color: #cc00cc;
+}
+
+.css .re1 {
+	color: #6666ff;
+}
+
+.css .re2 {
+	color: #3333ff;
+}
+
+.css .re3 {
+	color: #933;
+}
+
+.css span.xtra {
+	display:block;
+}
+
+/*			HTML			*/
+
+.html4strict {
+	font-family: monospace;
+	text-align: left;
+	color: #006;
+	border: 1px solid #d0d0d0;
+	background-color: #f0f0f0;
+}
+
+.html4strict a:link {
+	color: #000060;
+}
+
+.html4strict a:hover {
+	background-color: #f0f000;
+}
+
+.html4strict .imp {
+	font-weight: bold;
+	color: red;
+}
+
+.html4strict .kw2 {
+	color: #000000;
+	font-weight: bold;
+}
+
+.html4strict .kw3 {
+	color: #000066;
+}
+
+.html4strict .es0 {
+	color: #000099;
+	font-weight: bold;
+}
+
+.html4strict .br0 {
+	color: #66cc66;
+}
+
+.html4strict .sy0 {
+	color: #66cc66;
+}
+
+.html4strict .st0 {
+	color: #ff0000;
+}
+
+.html4strict .nu0 {
+	color: #cc66cc;
+}
+
+.html4strict .sc-1 {
+	color: #808080;
+	font-style: italic;
+}
+
+.html4strict .sc0 {
+	color: #00bbdd;
+}
+
+.html4strict .sc1 {
+	color: #ddbb00;
+}
+
+.html4strict .sc2 {
+	color: #009900;
+}
+
+.html4strict span.xtra {
+	display:block;
+}
+
