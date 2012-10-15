@@ -11,7 +11,7 @@
 	<?php $plxShow->meta('keywords') ?>
 	<?php $plxShow->meta('author') ?>
 
-	<link rel="icon" href="<?php $plxShow->template(); ?>/img/icon.ico" />
+	<link rel="icon" type="image/x-icon" href="<?php $plxShow->template(); ?>/img/icon.ico" />
 	<link rel="stylesheet" type="text/css" href="<?php $plxShow->template(); ?>/styles/style.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="<?php $plxShow->template(); ?>/styles/code.css" media="screen" />
 	<?php $plxShow->templateCss() ?>
