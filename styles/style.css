@@ -286,6 +286,14 @@ ul.note_list {
 	text-indent: 100px;
 }
 
+.article dt {
+	font-size: 105%;
+}
+
+.article dd {
+	margin-bottom: 10px;
+}
+
 /*			.art_infos			*/
 
 .art_infos {
